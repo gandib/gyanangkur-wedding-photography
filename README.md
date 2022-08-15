@@ -1,6 +1,6 @@
 # Getting Started with Gyanangkur Wedding Photography
 
-# [Live Server Link](https://tech-review-site.netlify.app/)
+# [Live Server Link](https://gyanangkur-wedding-photography.web.app/)
 
 # [Private Repo Link](https://github.com/programming-hero-web-course-4/independent-service-provider-gandib)
 https://github.com/programming-hero-web-course-4/independent-service-provider-gandib
