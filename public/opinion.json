@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "John Abraham",
+        "opinion": "I wonder if you feel like I do, a little frustrated at times. Frustrated, why I hear you ask? Well, let me explain. The first image below this paragraph is of Durham Cathedral. Looks like a nice picture, right? Good composition, lovely exposure, great color, and perfect focus.",
+        "img": "https://i.ibb.co/QpPBrz4/young-bearded-man-with-striped-shirt.png"
+    },
+    {
+        "id": 2,
+        "name": "Jason Raw",
+        "opinion": "So what is a photographic burnout? A while ago, I wrote an article about the six stages of becoming a photographer. It was a wry, tongue-in-cheek look at the journey we make towards becoming a “tog”. Whilst the article was humorous, it was very much grounded in real life. ",
+        "img": "https://i.ibb.co/xGPnpjy/bohemian-man-with-his-arms-crossed.png"
+    },
+    {
+        "id": 3,
+        "name": "Mr. Jack",
+        "opinion": "How about returning to drone photography? Many of you that have been around the hallowed halls of Light Stalking for a while, will remember that I enjoy drone photography. Indeed, I have written reviews about the drones I have bought and my experiences in becoming a CAA qualified commercial drone pilot.",
+        "img": "https://i.ibb.co/C7sGc18/handsome-corporate-man-real-estate-agent-assistant-smiling-hold-hands-together-how-may-i-help-you-sm.png"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Wedding Package",
+        "feature1": "Unlimited Photoshoots",
+        "feature2": "Unlimited Soft Copy",
+        "feature3": "300 Pieces 6R Size Hard Copy",
+        "feature4": "Wedding Album",
+        "price": 1500,
+        "description": "Basic package is very affordable in comparison to the market. Here no compromised with quality. I committed to give best quality.",
+        "img": "https://i.ibb.co/tXHch7n/wedding-cake-decor-made-two-rocking-chairs.png"
+    },
+    {
+        "id": 2,
+        "name": "Pro Wedding Package",
+        "feature1": "Unlimited Photoshoots",
+        "feature2": "Unlimited Soft Copy",
+        "feature3": "500 Pieces 6R/10R Size Hard Copy",
+        "feature4": "Wedding Album",
+        "price": 2000,
+        "description": "Pro package is very affordable in comparison to the market. Here no compromised with quality. I committed to give best quality. So its value for money.",
+        "img": "https://i.ibb.co/RgT9DJN/shine-wedding-altar-newlyweds-stands-backyard-decorated-with-balloons.png"
+    },
+    {
+        "id": 3,
+        "name": "Ultra Wedding Package",
+        "feature1": "Unlimited Photoshoots",
+        "feature2": "Unlimited Soft Copy",
+        "feature3": "1000 Pieces 6R/10R Size Hard Copy",
+        "feature4": "Wedding Album",
+        "price": 2500,
+        "description": "Ultra package is very affordable in comparison to the market. Here no compromised with quality. I committed to give best quality.",
+        "img": "https://i.ibb.co/XXmp73P/groom-bride-s-wedding-table-decorated-with-flowers-candles.png"
+    }
+]
