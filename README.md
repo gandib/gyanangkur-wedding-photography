@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Getting Started with Gyanangkur Wedding Photography
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [Live Server Link](https://tech-review-site.netlify.app/)
+
+# [Private Repo Link](https://github.com/programming-hero-web-course-4/independent-service-provider-gandib)
+https://github.com/programming-hero-web-course-4/independent-service-provider-gandib
+
+# Using Bullet Points for Describing My Project
+* Home page contains a carousel, services, opinio, and a footer.
+* Using React Bootstrap
+* Using React Router
+* Using React Firebase Hooks
+* Using React Toastify
+* Using React Form Hooks, and so on.
 
 ## Available Scripts
 
