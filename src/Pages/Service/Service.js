@@ -16,7 +16,7 @@ const Service = ({ product }) => {
 
     return (
         <div>
-            <Card>
+            <Card className='services-sigle'>
                 <Card.Img variant="top" src={img} />
                 <Card.Body>
                     <Card.Title>{name}</Card.Title>

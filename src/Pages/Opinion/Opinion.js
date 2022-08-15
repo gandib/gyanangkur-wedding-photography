@@ -14,7 +14,7 @@ const Opinion = () => {
             <h2 className='container text-start mt-5'>Customer Opinions</h2>
             <div className='container opinion-container mt-4'>
                 {
-                    opinions.map(opinion => <Card
+                    opinions.map(opinion => <Card className='single-cart'
                         key={opinion.id}>
                         <Card.Img variant="top" src={opinion.img} />
                         <Card.Body>

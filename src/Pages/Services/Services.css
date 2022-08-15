@@ -8,4 +8,8 @@
     .services-container {
         display: block;
     }
+
+    .services-sigle {
+        margin-bottom: 10px;
+    }
 }
