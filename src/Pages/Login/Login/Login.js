@@ -26,7 +26,6 @@ const Login = () => {
 
     const [sendPasswordResetEmail, sending] = useSendPasswordResetEmail(auth);
 
-
     const handleSubmit = event => {
         event.preventDefault();
         const email = emailRef.current.value;
