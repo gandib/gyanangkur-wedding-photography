@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyArZrTUaQ5n3ztVs6MpvCANTV0_C2_D2nM",
-    authDomain: "gyanangkur-wedding-photography.firebaseapp.com",
-    projectId: "gyanangkur-wedding-photography",
-    storageBucket: "gyanangkur-wedding-photography.appspot.com",
-    messagingSenderId: "88552157569",
-    appId: "1:88552157569:web:f4f842977e88fe41073880"
+    apiKey: `${process.env.REACT_APP_API_KEY}`,
+    authDomain: `${process.env.REACT_APP_AUTH_DOMAIN}`,
+    projectId: `${process.env.REACT_APP_PROJECT_ID}`,
+    storageBucket: `${process.env.REACT_APP_STORAGE_BUCKET}`,
+    messagingSenderId: `${process.env.REACT_APP_MESSAGING_SENDER_ID}`,
+    appId: `${process.env.REACT_APP_APP_ID}`
 };
 
 // Initialize Firebase
